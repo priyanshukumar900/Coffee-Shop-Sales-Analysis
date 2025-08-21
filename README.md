@@ -2,7 +2,7 @@
 Welcome to the Coffee Shop Sales Dashboard project! 🎉 This project aims to enhance business operations with sophisticated data visualization and analysis. Developed using MySQL and Power BI, the dashboard provides real-time insights into various performance metrics, making it an essential tool for coffee shop management.
 
 # Overview
-###Data Integration
+### Data Integration
 **MySQL**: Efficiently stored and managed large datasets related to sales, inventory, and customer information. This included creating and managing databases, writing complex queries for data extraction, and ensuring data integrity and security.
 **Power BI**: Connected to MySQL databases to create dynamic and interactive visualizations. Learned to import data, create relationships between tables, and use DAX (Data Analysis Expressions) for advanced calculations and metrics.
 __Sales Trends Analysis__
